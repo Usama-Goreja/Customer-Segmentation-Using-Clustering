@@ -38,8 +38,7 @@ The final clustering results are visualized in a scatter plot, clearly showing d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Customer-Segmentation-KMeans.git
-   cd Customer-Segmentation-KMeans
+(https://github.com/Usama-Goreja/Customer-Segmentation-Using-Clustering)
    ```
 
 2. Install dependencies:
